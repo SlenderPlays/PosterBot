@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PosterBot": {
+      "commandName": "Project",
+      "commandLineArgs": "-c D:\\Programming\\VisualStudioProjects\\PosterBot\\PosterBot\\config.json -d C:\\Users\\Geo\\Documents\\PosterBot\\save-data.dat"
+    }
+  }
+}

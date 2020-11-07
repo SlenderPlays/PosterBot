@@ -1,0 +1,18 @@
+﻿{
+	"token": "<Discord Bot Token Here>",
+	"botPrefix": "!",
+	"verbose": true, // for debug purposes. Shows more info in chat when an error occures
+	"guildWhitelist": [
+		"00000000000000" // Guild ID of a whitelisted server. The bot will leave from non-whitelisted servers.
+	],
+	"subredditsWatched": [
+		"test", // r/test
+		"pics" // r/pics
+	],
+	"redditAppId": "<Reddit App ID>",
+	"redditAppSecret": "<Reddit App Secret>",
+	"redditRefreshToken": "<Refresh Token>"
+}
+
+// permission integer 268880960
+// Link to invite your own bot: https://discordapp.com/oauth2/authorize?client_id=<Bot Client ID>&scope=bot&permissions=268880960
